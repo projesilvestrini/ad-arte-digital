@@ -1,0 +1,36 @@
+body{
+background-color: rgb(43, 226, 211);
+
+
+}
+
+.cabesalho-da-pagina
+{
+    background-color: cornflowerblue;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;    
+}
+
+h1{
+    background-color: crimson;
+    font-family: "segoe UI symbol";
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.descricao{
+    font-size: 18px;
+    font-family: "segoe UI symbol";
+    text-align: center;
+
+}
+
+.img{
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;  
+}
+
